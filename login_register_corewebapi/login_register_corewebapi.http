@@ -1,0 +1,6 @@
+@login_register_corewebapi_HostAddress = http://localhost:5101
+
+GET {{login_register_corewebapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
