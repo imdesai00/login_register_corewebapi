@@ -24,11 +24,10 @@
 To get started with this project, follow these steps:
 
 1. Clone the Repository: Use git clone to clone this repository to your local machine.
-2. Configure the necessary settings such as SMTP server details, email templates, and database connection string.Build and run the application.
-3. Navigate to the Project Directory: cd into the directory containing the cloned repository.
-4. Build and Run the Project: Use dotnet build to build the project, followed by dotnet run to start the development server.
-5. Explore the API: Once the project is running, navigate to https://localhost:5001/swagger/index.html to explore and interact with the API using Swagger UI.
-6. Test the Forgot Password and Reset Password endpoints using tools like Postman or through your application's frontend.
+2. Navigate to the Project Directory: cd into the directory containing the cloned repository.
+3. Build and Run the Project: Use dotnet build to build the project, followed by dotnet run to start the development server.
+4. Explore the API: Once the project is running, navigate to https://localhost:5001/swagger/index.html to explore and interact with the API using Swagger UI.
+
 ## Run Locally
 
 Clone the project
